@@ -1,5 +1,6 @@
 # Summary
 
+* [Index](SUMMARY.md)
 * [Introduction](README.md)
 * [BOM.md](/BOM.md)
 * [conda.md](/conda.md)
