@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [简介](jian-jie.md)
 * [BOM](/BOM.md)
 * [conda](/conda.md)
 * [CSSSerie](/CSSSerie.md)

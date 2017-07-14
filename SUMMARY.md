@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [简介](jian-jie.md)
 * [BOM.md](/BOM.md)
 * [conda.md](/conda.md)
 * [CSSSerie.md](/CSSSerie.md)
@@ -10,6 +9,4 @@
 * [Error.md](/Error.md)
 * [JavaScript语言精粹.md](/JavaScript语言精粹.md)
 * [JavaScript对象继承.md](/JavaScript对象继承.md)
-
-
 
